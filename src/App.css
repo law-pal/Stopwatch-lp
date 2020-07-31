@@ -1,0 +1,52 @@
+*{
+  background-color: rgb(252, 224, 40);
+}
+
+.container{
+  text-align: center;
+}
+
+.h1{
+  font-size: 8em;
+}
+
+.minutes{
+  font-size: 8em;
+}
+
+.buttons{
+  display: flex;
+  align-content: space-around;
+  padding: 2rem 2rem;
+  text-decoration: none;
+  height: 100px;
+}
+
+.button:focus{
+  outline: none;
+}
+
+.button1{
+  flex-grow: 1;
+  font-size: 5em;
+  background-color: black;
+  color: rgb(252, 224, 40);
+  letter-spacing: 10px;
+}
+
+
+.button2{
+  flex-grow: 1;
+  font-size: 5em;
+  background-color: black;
+  color: rgb(252, 224, 40);
+  letter-spacing: 10px;
+}
+
+.button3{
+  flex-grow: 1;
+  font-size: 5em;
+  background-color: black;
+  color: rgb(252, 224, 40);
+  letter-spacing: 10px;
+}
