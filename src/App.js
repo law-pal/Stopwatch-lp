@@ -3,6 +3,9 @@ import './App.css';
 
 // started app class
 class App extends Component {
+  constructor(){
+    super()
+  }
 
 }
 
