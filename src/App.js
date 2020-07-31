@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import './App.css';
 
-// started app class and set state properties//
+// started app class and set state properties, I plan to create a class  containing the state, then create three functions for start, stop and reset. Then create a timer function, after that test each function to make sure they all work togrther. I'm using the logic provided underneath from a previous in class exercise called favorite language, It was about incrementing the count, also my main resource was the time spent during office hours with Jade that was very helpul.
+// Finally for the styling I am using CSS with flexbox, display flex, space-around, some background colors, and for the children I used flex grow I was just experimenting and I found it really useful.//
 
 class App extends Component {
   constructor(){
